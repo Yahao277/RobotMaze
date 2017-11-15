@@ -1,0 +1,3 @@
+-Ricard: Images stay in the folder data, probably need "data/image.png", to find the archive
+
+Jiahao: Implementat les clases Llista, cua, pila amb templates i herencia, revisar si esta bé.
